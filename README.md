@@ -24,7 +24,7 @@ I'm currently a B.Tech student in Electronics and Communication Engineering (ECE
 
 
 --------------------------------------
-<!-- ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Deepak-Pandey&show_icons=true&theme=radical) -->
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Deepak-Pandey&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Deepak-Pandey)
 --------------------------------------
