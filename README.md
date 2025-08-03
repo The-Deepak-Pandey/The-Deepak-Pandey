@@ -31,8 +31,9 @@ I'm currently a B.Tech student in Electronics and Communication Engineering (ECE
 ![](https://komarev.com/ghpvc/?username=The-Deepak-Pandey&color=green)
 
 
-<img src="https://github.com/The-Deepak-Pandey/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/The-Deepak-Pandey/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/The-Deepak-Pandey/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/The-Deepak-Pandey/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+
 <!-- <img src="https://github.com/the-deepak-pandey/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/the-deepak-pandey/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" /> -->
 
